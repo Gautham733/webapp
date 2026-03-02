@@ -1,3 +1,3 @@
-function showMessage() {
-    document.getElementById("message").innerHTML = "Hello! You clicked the button.";
+function goToNextPage() {
+    window.location.href = "page2.html";
 }
